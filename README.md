@@ -1,19 +1,41 @@
 # 372-assignment7
 React SPA
 
-# React + Vite
+# Video Link
+https://1drv.ms/v/c/300333487d536498/IQDW6dzosFqPTZD2UGNME1PWAbBrQ2b1Sh2s3Ew671fKJSk?e=AjnhDo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Setup Instructions
 
-Currently, two official plugins are available:
+### Before starting.. make sure Node.js is installed
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+1. Clone the repository to your local machine:
+```bash
+    git clone <repo-url>
+```
 
-## React Compiler
+2. Navigate to the project folder:
+```bash
+    cd <project-folder>
+```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+3. Using the terminal install dependencies:
+```bash
+    npm install
+```
 
-## Expanding the ESLint configuration
+4. Start your local server:
+```bash
+    npm run dev
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+5. Open browser and go to:
+    http://localhost:5173
+
+# Reflection
+
+For this assignment, I used React components and states to create an interactive Rock, Paper, Scissors game. Through this project, I learned how to manage application states and how to pass data between different components.
+
+This project was fun to build, although I did struggle with implementing the computer's animation. I initially wasn't able to figure it out on my own, so I went back to earlier class examples, where we used setInterval to create an animation. That helped me better understand how timing functions can be used. 
+
+I also enjoyed implementing the game logic, since it was a good balance of being challenging without being overly complicated. Overall, this project helped me better understand React, the different parts of an application, and how everything works together. 
+
