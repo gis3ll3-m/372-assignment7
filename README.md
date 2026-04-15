@@ -18,7 +18,7 @@ https://1drv.ms/v/c/300333487d536498/IQDW6dzosFqPTZD2UGNME1PWAbBrQ2b1Sh2s3Ew671f
     cd <project-folder>
 ```
 
-3. Using the terminal install dependencies:
+3. Using the terminal, install dependencies:
 ```bash
     npm install
 ```
@@ -29,7 +29,9 @@ https://1drv.ms/v/c/300333487d536498/IQDW6dzosFqPTZD2UGNME1PWAbBrQ2b1Sh2s3Ew671f
 ```
 
 5. Open browser and go to:
+```bash
     http://localhost:5173
+```
 
 # Reflection
 
